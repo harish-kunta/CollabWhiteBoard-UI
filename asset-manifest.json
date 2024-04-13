@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/collab-whiteboard/static/css/main.db62923b.css",
+    "main.js": "/collab-whiteboard/static/js/main.38c83051.js",
+    "static/js/453.ba34bcf0.chunk.js": "/collab-whiteboard/static/js/453.ba34bcf0.chunk.js",
+    "index.html": "/collab-whiteboard/index.html",
+    "main.db62923b.css.map": "/collab-whiteboard/static/css/main.db62923b.css.map",
+    "main.38c83051.js.map": "/collab-whiteboard/static/js/main.38c83051.js.map",
+    "453.ba34bcf0.chunk.js.map": "/collab-whiteboard/static/js/453.ba34bcf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.38c83051.js"
+  ]
+}
