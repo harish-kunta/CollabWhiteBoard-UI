@@ -1,14 +1,12 @@
 # Project Name
 
-A brief description of your project.
+The project is a collaborative whiteboard application that allows multiple users to draw on a shared canvas in real-time. It provides various drawing tools, synchronization across devices, and the ability to export drawings as images. The project also includes a user-friendly interface and a live demo for testing purposes. However, there may be a temporary delay in synchronizing changes due to the backend server being hosted on a free server.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
